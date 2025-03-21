@@ -1,0 +1,65 @@
+# 로그인 및 에이전트 만들기
+
+이 연습에서는 개인 아이디를 이용하여 Microsoft Copilot Studio 저작 환경에 로그인합니다.
+
+## 작업 1: Copilot Studio에 로그인
+
+1. https://aka.ms/CopilotStudioStart 또는 https://copilotstudio.microsoft.com 으로 이동합니다.
+
+2. 사용자 이름을 입력하고 다음을 클릭합니다.
+
+3. 비밀번호를 입력하고 로그인을 클릭합니다.
+
+   ![image](https://github.com/user-attachments/assets/a0d0f725-6af2-4db6-9530-43c3a75653b7)
+   
+4. 메시지가 표시되면 로그인 상태를 유지할지 여부를 선택합니다.
+
+5. Microsoft Copilot Studio에 처음 액세스하면 국가/지역을 선택하라는 메시지가 표시됩니다. </br> 값을 선택하거나 기본 옵션을 그대로 두고 시작을 클릭할 수 있습니다.
+
+
+## 작업 2: 에이전트 만들기
+
+1. 먼저 환경이 올바른지 확인합니다.
+
+    <img src="https://github.com/user-attachments/assets/fa1ce6d6-12bc-4023-832c-d3da06b2678b">
+
+2. Microsoft Copilot Studio 홈페이지에서 **만들기** - **새 에이전트** 를 클릭하여 새로운 에이전트를 만듭니다.
+
+    ![image](https://github.com/user-attachments/assets/75b00477-ba96-44fd-b21f-87bc414a2a59)
+
+3. 에이전트의 **이름**을 입력하고, **만들기**를 클릭합니다.
+
+    ![image](https://github.com/user-attachments/assets/551a4586-a89b-4987-bc91-45d9242a9137)
+
+    에이전트 이름은 **[아이디] Agent(classic)** 으로 지정합니다. </br>
+    언어는 한국어로 지정해 주세요.
+   ```
+   [아이디] Agent(classic)
+   ```
+
+   팁: 아래 이미지와 같은 대화형 환경이 나온다면, **구성으로 건너뛰기**를 선택한 후 진행합니다.
+   ![image](https://github.com/user-attachments/assets/fa2d6ec2-f499-4fde-a20f-39c367a7d497)
+
+  
+5. 에이전트가 만들어졌습니다.</br>
+   오른쪽 상단에서 **테스트** 버튼을 누르면, 에이전트를 테스트 할 수 있는 채팅창이 열립니다.</br>
+   아래와 같이 입력해 보세요.</br>
+
+   ```
+   안녕하세요.
+   ```
+   ```
+   태양계의 행성을 순서대로 나열해 주세요.
+   ```
+   
+   ![image](https://github.com/user-attachments/assets/24d51d58-1871-4490-93ca-bade6a251fed)
+
+   일반 지식을 가진 에이전트가 만들어졌습니다. </br>
+
+
+
+   아래의 설정이 활성화 되어 있지 않다면, 이러한 일반 지식에 대해 답변을 할 수 없습니다.
+   
+   ![image](https://github.com/user-attachments/assets/fc101e87-4f0d-4095-8100-af92786bc5f6)
+
+   ![image](https://github.com/user-attachments/assets/77c35e64-b505-4674-b6f9-c0610a07708a)
