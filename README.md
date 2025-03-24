@@ -22,6 +22,6 @@
 
 |순서|진행내용|
 |--|--|
-|1|클래식 오케스트레이션|
-|2|토픽 만들기|
-|3|토픽 활용하기|
+|1|[클래식 오케스트레이션](https://github.com/FDX-edu/20250325_CopilotStudio/blob/main/additional/lab02_01.md)|
+|2|[토픽 만들기](https://github.com/FDX-edu/20250325_CopilotStudio/blob/main/additional/lab02_02.md)|
+|3|[토픽 활용하기](https://github.com/FDX-edu/20250325_CopilotStudio/blob/main/additional/lab02_03.md)|
