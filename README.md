@@ -27,10 +27,10 @@
 |2|[토픽 만들기](https://github.com/FDX-edu/20250325_CopilotStudio/blob/main/lab02/lab02_02.md)|
 |3|[토픽 활용하기](https://github.com/FDX-edu/20250325_CopilotStudio/blob/main/lab02/lab02_03.md)|
 |4|[엔터티 활용하기](https://github.com/FDX-edu/20250325_CopilotStudio/blob/main/lab02/lab02_04.md)|
-|5|[날씨 조회하기](https://github.com/FDX-edu/20250325_CopilotStudio/blob/main/lab02/lab02_05.md)|
+|5|[토픽으로 날씨 조회하기](https://github.com/FDX-edu/20250325_CopilotStudio/blob/main/lab02/lab02_05.md)|
 
 ## 4. Lab 03
 |순서|진행내용|
 |--|--|
 |1|[생성형 오케스트레이션](https://github.com/FDX-edu/20250325_CopilotStudio/blob/main/lab03/lab03_01.md)|
-|2|[작업(Action)](https://github.com/FDX-edu/20250325_CopilotStudio/blob/main/lab03/lab03_02.md)|
+|2|[작업(Action) 활용하여 날씨 조회하기](https://github.com/FDX-edu/20250325_CopilotStudio/blob/main/lab03/lab03_02.md)|
